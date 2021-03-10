@@ -26,7 +26,7 @@ They will also have the opportunity to share their own examples and AI applicati
 
 ### AI in the public sector
 
- - [AI in the UK: the story so far (Gov.uk)] (https://cspl.blog.gov.uk/2020/03/19/ai-in-the-uk-the-story-so-far/)
+ - [AI in the UK: the story so far (Gov.uk)](https://cspl.blog.gov.uk/2020/03/19/ai-in-the-uk-the-story-so-far/)
  - [AI Council](https://www.gov.uk/government/groups/ai-council)
  - [Office for Artificial Intelligence](https://www.gov.uk/government/organisations/office-for-artificial-intelligence)
  - [AI Watch Artificial Intelligence in public services (European Commission)](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf)
