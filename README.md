@@ -26,7 +26,7 @@ Note: All times are UK times.
 Time (UK)      | Topic
 ---------------|-----------
 15.00 – 15.10  | Welcome to the workshop & Aims <br> Introductions
-15.10 – 16.00  | Using AI in Civil protection & Emergency response: definitions and common ground <br>  - What is AI? What is not AI?<br> - Disaster management cycle<br> - Civil protection challenges & opportunities<br> - Activity 1: Civil protection challenges in Colombia <br>[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
+15.10 – 16.00  | Using AI in Civil protection & Emergency response: definitions and common ground <br>  - What is AI? What is not AI?<br> - Disaster management cycle<br> - Civil protection challenges & opportunities<br> - Activity 1: Civil protection challenges in Colombia <br><!--[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)-->
 16.00 – 16.15  | Break
 16.15 – 17.00  | Using AI in Civil protection & Emergency response: from response to prevention<br> - AI helping on the ground responders (response)<br> - AI helping restoring and reconstructing (recovery)<br> - AI helping understand risks & raising awareness (mitigation)<br> - AI helps understand and reduce risk (prevention/ preparedness)
 17.00 – 17.15  | Break
