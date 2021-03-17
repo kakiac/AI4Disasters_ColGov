@@ -1,5 +1,5 @@
 # Artificial intelligence for emergency response and civil protection: opportunities and application areas for Colombia. 
-A workshop delivered by Kakia Chatsiou online on 17th March 2021 to Civil Service in Colombia.
+A workshop delivered by Kakia Chatsiou online on 17th March 2021 to policymakers, academics and independent researchers in Colombia, as part of the COLGOV project.
 
 <hr>
 
