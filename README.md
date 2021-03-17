@@ -45,6 +45,7 @@ Time(Colombia)  | Time (UK)      | Topic
  - [AI Council](https://www.gov.uk/government/groups/ai-council)
  - [Office for Artificial Intelligence](https://www.gov.uk/government/organisations/office-for-artificial-intelligence)
  - [AI Watch Artificial Intelligence in public services (European Commission)](https://publications.jrc.ec.europa.eu/repository/bitstream/JRC120399/jrc120399_misuraca-ai-watch_public-services_30062020_def.pdf)
+ - [Resources for Research on Crisis Informatics Topics - Crisis NLP](https://crisisnlp.qcri.org/)
 
 ### AI for emergency response
 
@@ -53,3 +54,4 @@ Time(Colombia)  | Time (UK)      | Topic
  - [Focus Group on AI for Natural Disaster Management (FG-AI4NDM)](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx)
  - [AIDR - Artificial Intelligence for Digital Response](http://aidr.qcri.org/)
  - [Artificial intelligence for disaster risk reduction - PreventionWeb Collection of User cases](https://www.preventionweb.net/tags/pw%3Aai4drr/Artificial+intelligence+for+disaster+risk+reduction#hits=20&sortby=default&view=pw&filter=usertags%3A%5E%22pw%3Aai4drr%22%24)
+ - [Natural Disasters 2019](https://reliefweb.int/report/world/natural-disasters-2019)
