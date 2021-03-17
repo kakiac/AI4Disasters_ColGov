@@ -49,3 +49,4 @@ Time(Colombia)  | Time (UK)      | Topic
 ### AI for emergency response
 
  - [A safer, more resilient world: Reducing disaster risks with AI](https://www.itu.int/en/myitu/News/2020/10/20/14/54/AI-for-Good-Disaster-Risk-Reduction-artificial-intelligence)
+ - [How can Artificial Intelligence reduce disaster risks in countries? | AI FOR GOOD LIVE](https://www.youtube.com/watch?v=ZEQ1NEzx3NM)
