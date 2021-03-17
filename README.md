@@ -50,3 +50,6 @@ Time(Colombia)  | Time (UK)      | Topic
 
  - [A safer, more resilient world: Reducing disaster risks with AI](https://www.itu.int/en/myitu/News/2020/10/20/14/54/AI-for-Good-Disaster-Risk-Reduction-artificial-intelligence)
  - [How can Artificial Intelligence reduce disaster risks in countries? | AI FOR GOOD LIVE](https://www.youtube.com/watch?v=ZEQ1NEzx3NM)
+ - [Focus Group on AI for Natural Disaster Management (FG-AI4NDM)](https://www.itu.int/en/ITU-T/focusgroups/ai4ndm/Pages/default.aspx)
+ - [AIDR - Artificial Intelligence for Digital Response](http://aidr.qcri.org/)
+ - [Artificial intelligence for disaster risk reduction - PreventionWeb Collection of User cases](https://www.preventionweb.net/tags/pw%3Aai4drr/Artificial+intelligence+for+disaster+risk+reduction#hits=20&sortby=default&view=pw&filter=usertags%3A%5E%22pw%3Aai4drr%22%24)
