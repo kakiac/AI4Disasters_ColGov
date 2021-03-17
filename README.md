@@ -1,5 +1,5 @@
 # Artificial intelligence for emergency response and civil protection: opportunities and application areas for Colombia. 
-An online workshop delivered by Kakia Chatsiou on 17th March 2021 to policymakers, academics and independent researchers in Colombia, as part of the COLGOV project, at the University of Externado, Colombia.
+An online workshop delivered by [Dr. Kakia Chatsiou](http://kakiac.github.io) on 17th March 2021 to policymakers, academics and independent researchers in Colombia, as part of the COLGOV project, at the University of Externado, Colombia.
 
 The workshop was offered as part of a larger course on "Evidence-based decision making", part of a joint initiative between the Faculty of Economics, Faculty of Finance, Government and International Relations (FIGRI) and the support of the Department of Mathematics of the Externado de Colombia University, in alliance with the University of Essex, within the framework of an initiative of the United Kingdom cooperation fund for Global Challenges (GCRF).
 
